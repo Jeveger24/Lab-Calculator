@@ -1,0 +1,33 @@
+body{
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #F8F4F9;
+}
+
+/* Global */
+.everything {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Not Global */
+header{
+    border-style: solid;
+    background-color: #2DF0FE;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#greeting {
+    color: #FE9001;
+}
+
+header h3{
+    color: #FEC62D;
+}
+
+#calculator{
+    border-style: solid;
+    background-color: #2DF0FE;
+}
